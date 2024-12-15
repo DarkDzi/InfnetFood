@@ -1,4 +1,4 @@
-# Nome do Projeto
+# InfnetFood
 
 Este é um projeto React Native que permite visualizar produtos, realizar pedidos e configurar preferências do usuário, como o tema da interface.
 
